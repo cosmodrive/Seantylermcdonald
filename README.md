@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean McDonald =====================================================================================================================================  Software Developer ------------------  * 🌍  I'm based in Sacramento, Ca * ✉️  You can contact me at [sean@seantylermcdonald.com](mailto:sean@seantylermcdonald.com) * 🚀  I'm currently working on [Coding my first program](http://Www.seantylermcdonald.com) * 🧠  I'm learning A new framework * ⚡  If I’m not coding, I’m probably sleeping
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sean McDonald =====================================================================================================================================  
+Software Developer ------------------  
+
+* 🌍  I'm based in Sacramento, Ca
+* ✉️  You can contact me at [sean@seantylermcdonald.com](mailto:sean@seantylermcdonald.com)
+* 🚀  I'm currently working on [Coding my first program](http://Www.seantylermcdonald.com)
+* 🧠  I'm learning A new framework
+*  ⚡  If I’m not coding, I’m probably sleeping
 
 <a href="https://www.github.com/Seantylermcdonald" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Seantylermcdonald?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills  
