@@ -1,29 +1,76 @@
-<img width="792" alt="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner - 3" src="https://github.com/seantylermcdonald/Seantylermcdonald/assets/71802665/9870ecf2-4844-42a7-887a-6c8aacf24bb0">
+<img width="792" alt="Profile Banner" src=(banner.png)>
 
 
-<h3 align="center">An Aspiring Coder & Network Engineer In My Free Time</h3>
+# Sean McDonald
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seantylermcdonald&label=Profile%20views&color=01c7fc&style=flat" alt="seantylermcdonald" /> </p>
+**Full-Stack Developer** | **DevOps Enthusiast** | **Automation Architect**  
+📍 Sacramento, CA | 💻 github.com/seantylermcdonald |
 
-- 📫 How to reach me **Sean@seantylermcdonald.com**
+---
 
-- ⚡ Fun fact **If I’m not coding, I’m either renting cars or sleeping**
+## 🧠 Summary
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Creative, self-driven, and self-taught full-stack developer. I have a passion for automation, self-hosted infrastructure, and generative AI tools. AI has given me the desire and motivation to build programs that can help solve problems that come up in my life, and maybe someone elses too.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/seantylermcdonald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="seantylermcdonald" height="30" width="40" /></a>
-<a href="https://dev.to/seantylermcdonald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="seantylermcdonald" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/seanmcdonald17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seanmcdonald17" height="30" width="40" /></a>
-<a href="https://hashnode.com/@seantylermcdonald" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@seantylermcdonald" height="30" width="40" /></a>
+---
+
+## ⚙️ Technical Skills
+
+**Languages:** Python, JavaScript (ES6+), Bash, HTML/CSS  
+**Frontend:** React, TailwindCSS  
+**Backend:** FastAPI, Express, Flask  
+**DevOps:** Docker, Docker Compose, Proxmox, NGINX, Git  
+**Tools & Platforms:** VS Code, GitHub, Notion, ChatGPT, Claude, Lightroom  
+**Databases:** SQLite, basic PostgreSQL knowledge  
+**Other:** Self-hosted app deployment, API integration, AI-assisted development
+
+---
+
+## 🎖️ Highlights
+
+- 🧰 Custom self-hosted toolkits built for productivity
+- 💡 Strong focus on local-first, privacy-respecting software
+
+---
+
+## 🔍 Interests
+
+- DevOps + homelab automation  
+- AI-assisted development workflows  
+- Open-source dashboards and tools  
+- Media libraries and streaming infrastructure  
+
+---
+
+## 📫 Contact
+
+- GitHub: [github.com/seantylermcdonald](https://github.com/seantylermcdonald)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seantylermcdonald&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seantylermcdonald&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seantylermcdonald&theme=tokyonight&hide_border=true" />
 </p>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Seantylermcdonald"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Seantylermcdonald" /></a></p><br><br><br>
+</p>
+</p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=seantylermcdonald&show_icons=true&theme=tokyonight&locale=en" alt="seantylermcdonald" /></p>
+> *"Code hard. Break less. Build better."*
 
+</p>
+</p>
+
+</p>
+</p>
