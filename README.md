@@ -1,35 +1,16 @@
 <img width="792" alt="Profile Banner" src="banner.png">
 
 
-# Sean McDonald
+# Sean
+🧰 I build tools, apps, and services with a focus on performance and clean UI.
 
-**Full-Stack Developer** | **DevOps Enthusiast** | **Automation Architect**  
-📍 Sacramento, CA | 💻 github.com/seantylermcdonald |
+🌌 Obsessed with retro space themes, automation, and open-source dev.
 
 ---
 
 ## 🧠 Summary
 
 Creative, self-driven, and self-taught full-stack developer. I have a passion for automation, self-hosted infrastructure, and generative AI tools. AI has given me the desire and motivation to build programs that can help solve problems that come up in my life, and maybe someone elses too.
-
----
-
-## ⚙️ Technical Skills
-
-**Languages:** Python, JavaScript (ES6+), Bash, HTML/CSS  
-**Frontend:** React, TailwindCSS  
-**Backend:** FastAPI, Express, Flask  
-**DevOps:** Docker, Docker Compose, Proxmox, NGINX, Git  
-**Tools & Platforms:** VS Code, GitHub, Notion, ChatGPT, Claude, Lightroom  
-**Databases:** SQLite, basic PostgreSQL knowledge  
-**Other:** Self-hosted app deployment, API integration, AI-assisted development
-
----
-
-## 🎖️ Highlights
-
-- 🧰 Custom self-hosted toolkits built for productivity
-- 💡 Strong focus on local-first, privacy-respecting software
 
 ---
 
@@ -42,11 +23,6 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
 
 ---
 
-## 📫 Contact
-
-- GitHub: [github.com/seantylermcdonald](https://github.com/seantylermcdonald)
-
----
 
 ## 📊 GitHub Stats
 
@@ -63,14 +39,3 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seantylermcdonald&theme=tokyonight&hide_border=true" />
 </p>
 
-
-</p>
-</p>
-
-> *"Code hard. Break less. Build better."*
-
-</p>
-</p>
-
-</p>
-</p>
