@@ -1,4 +1,4 @@
-<img width="792" alt="Profile Banner" src="banner.png">
+<img width="792" alt="Profile Banner" src="image.png">
 
 
 # Sean
