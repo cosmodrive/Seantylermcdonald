@@ -27,7 +27,6 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seantylermcdonald&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seantylermcdonald&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -35,7 +34,7 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
 
 ## Support Me
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="seantylermcdonald" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/seantylermcdonald" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <a href="https://airvpn.org/?referred_by=729575" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/userbar.png" alt="Air VPN - The air to breathe the real Internet"></a>
 
