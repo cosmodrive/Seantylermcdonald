@@ -33,9 +33,9 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
 
 ---
 
-## 🔥 Contribution Streak
+## Support Me
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seantylermcdonald&theme=tokyonight&hide_border=true" />
-</p>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="seantylermcdonald" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+<a href="https://airvpn.org/?referred_by=729575" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/userbar.png" alt="Air VPN - The air to breathe the real Internet"></a>
 
