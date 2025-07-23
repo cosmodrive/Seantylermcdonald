@@ -36,5 +36,5 @@ Creative, self-driven, and self-taught full-stack developer. I have a passion fo
 
 <a href="https://www.buymeacoffee.com/seantylermcdonald" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-<a href="https://airvpn.org/?referred_by=729575" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/userbar.png" alt="Air VPN - The air to breathe the real Internet"></a>
+<a href="https://airvpn.org/?referred_by=729575" title="Air VPN - The air to breathe the real Internet"><img src="https://airvpn.org/images/promotional/banner_641x91.gif" alt="Air VPN - The air to breathe the real Internet"></a>
 
